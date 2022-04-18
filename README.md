@@ -29,6 +29,7 @@ A Ruby Library for dealing with money and currency conversion.
 - Represents currency as `Money::Currency` instances providing a high level of
   flexibility.
 - Provides APIs for exchanging money from one currency to another.
+- One additional feature
 
 ### Resources
 
